@@ -1,5 +1,5 @@
 SKU: 333095
 Full product name: ADC 16-bit ADS1115 4-channel with PGA breakout
 Country of origin: Croatia
-HS tariff code: 85423100
+HS tariff code: 85340090
 EAN/UPC barcode: 732388668601
